@@ -1,6 +1,6 @@
 # Leads Tracker
 
-I have built a Chrome extension Leads Tracker to track and save GitHub profiles, LinkedIn profiles and some useful website addresses for faster accessing and connecting.
+I have built a Chrome extension Leads Tracker to track and save GitHub profiles, LinkedIn profiles and useful website addresses for faster access and connection.
 
 ## Let's see how to deploy your project as an extension in Chrome
 
@@ -11,4 +11,4 @@ I have built a Chrome extension Leads Tracker to track and save GitHub profiles,
   * Now your project is successfully loaded as a Chrome extension
   * Check out your extension in the Chrome extensions folder.
 
-_Happy Learning_🙂
+_Happy Learning_ 🙂
